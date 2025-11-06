@@ -1,2 +1,1 @@
-# discord-webhook-destroyer-
-discord webhook
+# discord-webhook-destroyer
